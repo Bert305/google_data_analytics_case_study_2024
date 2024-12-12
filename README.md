@@ -1,6 +1,6 @@
 # google_data_analytics_case_study_2024
 
-<p>Norbert's Case Study: <a href="https://docs.google.com/document/d/1upadApTX4bwzN5_ivE1ZE-0rw1CSAnZeCIMMRcO9p3Y/edit?usp=sharing">LINK</a></p> 
+<p>Norbert's Case Study: <a href="https://docs.google.com/document/d/1upadApTX4bwzN5_ivE1ZE-0rw1CSAnZeCIMMRcO9p3Y/edit?usp=sharing" target="_blank">LINK</a></p> 
 <p></p>
 Includes My Documentation on:
 <ul>
