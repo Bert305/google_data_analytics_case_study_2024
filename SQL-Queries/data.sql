@@ -2,7 +2,7 @@
 
 -- Dataset Used CSV file imported  (12 months combined): LINK
 
--- Performed Queries:
+-- Performed Queries: Just some sample queries. More queries can be found in the Google Docs file.
 
 -- Count the number of rides by type of user (member or casual):
 SELECT member_casual, count(*) AS ride_count
