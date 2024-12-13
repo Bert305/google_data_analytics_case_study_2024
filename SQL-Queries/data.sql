@@ -45,6 +45,23 @@ order by FIELD(day_of_week, 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursda
 -- Saturday 7893
 
 
+-- Data used was Dec 2020 and Jan 2021 combined.
+SELECT
+    member_casual AS Member_Type,
+    COUNT(*) AS Count
+FROM
+    cyclistic_bike_riders.dec_2020_and_jan_2021
+WHERE 
+    miles_covered = 0
+GROUP BY 
+    member_casual;
+
+-- Output:
+-- Casual riders: 427
+-- Annual Members: 338
+
+
+
 
 -- See more SQL queries in the Google Data Analytics Case Study 2024 Google Docs file.
 
