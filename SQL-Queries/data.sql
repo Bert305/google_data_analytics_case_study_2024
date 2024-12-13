@@ -45,7 +45,7 @@ order by FIELD(day_of_week, 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursda
 -- Saturday 7893
 
 
--- Data used was Dec 2020 and Jan 2021 combined.
+-- Data used was Dec 2020 and Jan 2021 combined. 
 SELECT
     member_casual AS Member_Type,
     COUNT(*) AS Count
