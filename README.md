@@ -21,12 +21,12 @@ Includes My Documentation on:
   <li>Act</li>
 </ul>
 <p></p>
-<p>Technologies Used</p>
+<p>Technologies Used:</p>
 <ul>
   <li>Google Sheets</li>
   <li>Google Docs</li>
   <li>R-programming</li>
   <li>MySQL Database</li>
-  <li>SQL - structured queries language</li>
+  <li>SQL - structured queried language</li>
   <li>Tableau</li>
 </ul>
